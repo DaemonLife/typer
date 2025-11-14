@@ -31,7 +31,7 @@ There is no maximum value, but anything below 1 will count as no min length.
 You can use Monkeytype as a source of words, just pass `-m, --monkeytype` flag,
 by default it'll use `english` dictionary, you can change that by adding `--monkeytype-language string` flag.
 ```
-typer -m --monkeytype-language code_go
+typer -m --monkeytype-language [LANGUAGE]
 ```
 see: [monkeytype languages](https://github.com/monkeytypegame/monkeytype/tree/master/frontend/static/languages)
 
