@@ -33,7 +33,7 @@ by default it'll use `english` dictionary, you can change that by adding `--monk
 ```
 typer -m --monkeytype-language code_go
 ```
-see: [monkeytype/languages/_list.json](https://github.com/monkeytypegame/monkeytype/blob/master/frontend/static/languages/_list.json)
+see: [monkeytype languages](https://github.com/monkeytypegame/monkeytype/tree/master/frontend/static/languages)
 
 If you want to provide your own text, you can pass in a file name with the `--file` flag. The typing test will use the contents of the specified file.
 ```
